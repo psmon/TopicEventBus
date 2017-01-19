@@ -10,7 +10,7 @@ For example, I would like to receive news from a news provider,
 If you want to, a news provider is a feature that allows you to spread real-time news to only the users you want, by the topic / language they serve.
 
 
-
+```
 //Create Act Act System for Testing
 ActorSystem system = TopicEventBus.inItSystem("TestTopic"); //ActorSystem Init
  
@@ -50,3 +50,4 @@ A가 뉴스를 받음 Hi...here news A from newsA
 Publish Topic:newsB msg:Hi...here news B
 C가 뉴스를 받음 Hi...here news B from newsB
 B가 뉴스를 받음 여기에 새로운 뉴스가 있습니다. from newsA
+```
