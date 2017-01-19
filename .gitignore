@@ -3,3 +3,5 @@
 ################################################################################
 
 /packages
+/TopicEventBus/bin/Debug
+/TopicEventBus/obj/Debug
