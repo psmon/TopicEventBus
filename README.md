@@ -1,5 +1,7 @@
 # TopicEventBus
-http://doc.akka.io/docs/akka/snapshot/java/event-bus.htmlLet's implement Event Bus in C #, a Pub / Sub module included in Java Akka.
+ 
+
+Let's implement Event Bus in C #, a Pub / Sub module included in Java Akka.
 
 The Pub / Sub model has the advantage of easily separating and processing messages with the concept of a channel (topic).
 
@@ -51,3 +53,5 @@ Publish Topic:newsB msg:Hi...here news B
 C가 뉴스를 받음 Hi...here news B from newsB
 B가 뉴스를 받음 여기에 새로운 뉴스가 있습니다. from newsA
 ```
+related link:
+http://doc.akka.io/docs/akka/snapshot/java/event-bus.html
