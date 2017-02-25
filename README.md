@@ -1,5 +1,6 @@
 # TopicEventBus
  
+요약 : .net에서 발송/구독 기본 모델을 쉽게 사용할수 있도록 만든 Akka.net을 이용한 클래스입니다.
 
 Let's implement Event Bus in C #, a Pub / Sub module included in Java Akka.
 
